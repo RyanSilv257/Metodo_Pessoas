@@ -136,7 +136,7 @@
 
     $p17->nome = "Gustavo Otaviano";
     $p17->altura = "1.85";
-    $p17->nascimento = "14-03-2007";
+    $p17->nascimento = "04-03-2007";
     $p17->hobbie = "Esportes";
 
 
